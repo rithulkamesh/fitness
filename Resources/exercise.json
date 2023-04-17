@@ -1,0 +1,179 @@
+[
+  {
+    "id": 0,
+    "name": "Treadmill Walking",
+    "icon": "figure.walk",
+    "description": "Treadmill walking involves walking on a motorized machine with a moving belt, providing a cardiovascular workout.",
+    "type": "cardio",
+    "routine": "I walk on the treadmill for 30 minutes at 5km/h (3.1m/h). This burns about 7 calories a minute. I recommend having some sort of entertainment while on the tread because this can get monotonous."
+  },
+  {
+    "id": 1,
+    "name": "Cross Trainer",
+    "icon": "figure.elliptical",
+    "description": "Cross trainer, also known as an elliptical machine, is a low-impact cardio workout that simulates running or walking while reducing stress on the joints.",
+    "type": "cardio",
+    "routine": "Brisk repetitions for 30 minutes, I allow a 1 minute break after the 15 minute mark. Always have water and entertainment ready."
+  },
+  {
+    "id": 2,
+    "name": "Incline Dumbbell Press",
+    "icon": "dumbbell.fill",
+    "description": "This is a chest exercise performed on an incline bench with dumbbells. It targets the upper part of the chest muscles, and can help to build size, strength, and definition in the chest and shoulders.",
+    "type": "chest",
+    "routine": "Warmup with a 7.5kg (16.5 lbs) dumbbell, Proceed with 2 moderate and 2 heavy weighted sets of 12-15 reps that are 10 kg (22 lbs) and 12.5 kg (27.5 lbs) respectively"
+  },
+  {
+    "id": 3,
+    "name": "Decline Dumbbell Press",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "This is a chest exercise performed on a decline bench with dumbbells. It targets the lower part of the chest muscles, and can help to build size, strength, and definition in the chest and triceps.",
+    "type": "chest",
+    "routine": "Warmup with a 7.5kg (16.5 lbs) dumbbell, Proceed with 2 moderate and 2 heavy weightd sets of 12-15 reps that are 10 kg (22 lbs) and 12.5 kg (27.5 lbs) respectively"
+  },
+  {
+    "id": 4,
+    "name": "Cable crossovers",
+    "icon": "dumbbell",
+    "description": "This is a chest exercise performed on a cable machine with handles. It targets the inner part of the chest muscles, and can help to build size, strength, and definition in the chest.",
+    "type": "chest",
+    "routine": "Warmup with 5kg (11 lbs) weights on each side, Proceed for four sets of 15-20 reps with 10kg (22 lbs)."
+  },
+  {
+    "id": 5,
+    "name": "Pec Flies",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "This is a chest exercise performed on a pec fly machine or with dumbbells. It targets the outer part of the chest muscles, and can help to build size, strength, and definition in the chest.",
+    "type": "chest",
+    "routine": "Warmup with 25kg (55 lbs) weights on each side, Proceed for four sets of 15-20 reps with 35kg (77 lbs)."
+  },
+  {
+    "id": 6,
+    "name": "Isolateral Pec Flies",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "This is a variation of the pec fly exercise performed on a machine that allows each arm to move independently. It targets the outer part of the chest muscles, and can help to build size, strength, and definition in the chest.",
+    "type": "chest",
+    "routine": "Warmup with a 7.5kg (16.5 lbs) dumbbell, Proceed with 2 moderate and 2 heavy weightd sets of 12-15 reps that are 10 kg (22 lbs) and 12.5 kg (27.5 lbs) respectively."
+  },
+  {
+    "id": 7,
+    "name": "Dual Abdominal Back Extension",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "This is an exercise that targets both the abdominals and back muscles, and can help to improve core stability and strength.",
+    "type": "back",
+    "routine": "2 sets of 20 reps with a moderate weight of 15kg (33 lbs) and then 2 sets of 15 reps with a heavy weight of 20kg (44 lbs)."
+  },
+  {
+    "id": 8,
+    "name": "Wide Grip Lat Pulldown",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "This is a back exercise that targets the lat muscles, and can help to build size and strength in the upper back.",
+    "type": "back",
+    "routine": "2 sets of 15 reps with a moderate weight of 25kg (55lbs) and 2 sets of 10-12 reps with a heavy weight of 35kg (77lbs)."
+  },
+  {
+    "id": 9,
+    "name": "Barbell Rows",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "This is a back exercise that targets the upper and middle back muscles, as well as the biceps. It can help to build size, strength, and definition in the back.",
+    "type": "back",
+    "routine": "3 sets of 8-10 reps with a heavy weight of 40kg (88 lbs)."
+  },
+  {
+    "id": 10,
+    "name": "Deadlifting",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "This is a compound exercise that targets multiple muscles, including the back, legs, and core. It can help to build overall strength and power.",
+    "type": "back",
+    "routine": "2 sets of 15 reps with a moderate weight of 40kg (88 lbs) amd 2 sets of 10 reps with heavy weight of 45kg (99 lbs)."
+  },
+  {
+    "id": 11,
+    "name": "Seated Cable Row",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "This is a back exercise that targets the middle and lower back muscles, as well as the biceps. It can help to build size, strength, and definition in the back.",
+    "type": "back",
+    "routine": "2 sets of 15 reps with a moderate weight of 25kg (55 lbs) and then 2 sets of 12 reps with a heavy weight of 35kg (77 lbs)."
+  },
+  {
+    "id": 12,
+    "name": "Squats",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "Squats are a compound exercise that work multiple muscle groups in the lower body, including the quadriceps, hamstrings, and glutes. They can help to increase strength, power, and overall lower body development.",
+    "type": "legs",
+    "routine": "2 Sets of 15 repetitions with a barbell attached with a total weight of 40kg (88 lbs)"
+  },
+  {
+    "id": 13,
+    "name": "Dual Adductor / Abductor",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "The dual adductor/abductor machine targets the muscles of the inner and outer thighs, which can help to improve overall lower body strength and stability.",
+    "type": "legs",
+    "routine": "I usually max out the machine and do 15-20 reps per set for 3 sets. This is kind of a warmup exercise before the leg curls for me."
+  },
+  {
+    "id": 14,
+    "name": "Seated Leg Extension",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "The seated leg extension is an isolation exercise that primarily targets the quadriceps muscle. It can help to build strength and size in the front of the thighs.",
+    "type": "legs",
+    "routine": "Warmup with a 40kg weight (88 lbs), proceed by increasing 5-10kg (11-22 lbs) every set for 4 sets total. Each set conisists of 15-12 reps, heavy weights can be reduced to 12 reps each."
+  },
+  {
+    "id": 15,
+    "name": "Seated Leg Curl",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "The seated leg curl is an isolation exercise that primarily targets the hamstrings. It can help to build strength and size in the back of the thighs.",
+    "type": "legs",
+    "routine": "Warmup with a 40kg weight (88 lbs), proceed by increasing 5-10kg (11-22 lbs) every set for 4 sets total. Each set conisists of 15-12 reps, heavy weights can be reduced to 12 reps each."
+  },
+  {
+    "id": 16,
+    "name": "Incline Leg Press",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "The 45-degree incline leg press is a compound exercise that targets the quads, hamstrings, and glutes. It can help to increase lower body strength and muscle size.",
+    "type": "legs",
+    "routine": "Warmup with 80kg (176 lbs), proceed by adding another 20kg (44 lbs) in the next set. There are 4 sets in total. Each set conisists of 15 reps, heavy weights can be reduced to 12 reps each."
+  },
+
+  {
+    "id": 17,
+    "name": "Bicep Curl",
+    "icon": "dumbbell",
+    "description": "The bicep curl is a classic exercise that targets the biceps muscle. It can help to build size, strength, and definition in the front of the upper arm.",
+    "type": "arms",
+    "routine": "Warmup with a 7.5kg (16.5 lbs) dumbbell, Proceed with 2 moderate and 2 heavy weightd sets of 12-15 reps that are 10 kg (22 lbs) and 12.5 kg (27.5 lbs) respectively"
+  },
+  {
+    "id": 18,
+    "name": "Bicep Hammer Curls",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "Bicep hammer curls are a variation of the bicep curl that target the brachialis muscle in addition to the biceps. They can help to build overall upper arm size and strength.",
+    "type": "arms",
+    "routine": "Warmup with a 7.5kg (16.5 lbs) dumbbell, Proceed with 2 moderate and 2 heavy weightd sets of 12-15 reps that are 10 kg (22 lbs) and 12.5 kg (27.5 lbs) respectively"
+  },
+  {
+    "id": 19,
+    "name": "Lateral Raise",
+    "icon": "dumbbell",
+    "description": "The lateral raise is an isolation exercise that primarily targets the side delts. It can help to build size and definition in the shoulders.",
+    "type": "arms",
+    "routine": "Warmup with 2.5kg (5.5 lbs) dumbbells, Proceed with 2 moderate and 2 heavy weightd sets of 12-15 reps that are 5 kg (11 lbs) and 7.5 kg (16.5 lbs) respectively"
+  },
+  {
+    "id": 20,
+    "name": "Muscle Press",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "The muscle press is a compound exercise that targets the triceps muscle. It can help to build size, strength, and definition in the back of the upper arm.",
+    "type": "arms",
+    "routine": "Warmup with a 7.5kg (16.5 lbs) dumbbell, Proceed with 2 moderate and 2 heavy weightd sets of 12-15 reps that are 10 kg (22 lbs) and 12.5 kg (27.5 lbs) respectively"
+  },
+  {
+    "id": 21,
+    "name": "Tricep Push Down",
+    "icon": "figure.strengthtraining.traditional",
+    "description": "The tricep push down is an isolation exercise that targets the triceps muscle. It can help to build size and definition in the back of the upper arm.",
+    "type": "arms",
+    "routine": "Warmup with 20kg (44 lbs) on the crossover machine. Proceed with 20 reps of 25kg (55 lbs) and 15 reps of 30kg (66 lbs) for 2 sets each."
+  }
+]
